@@ -17,15 +17,15 @@ const Header = () => {
     <header className="text-white bg-black py-6 px-4 absolute w-full top-0 z-20 border-b border-gray-500">
       <div className="relative container mx-auto flex items-center justify-between">
 
-        <div className='inline-flex gap-2'>
+        <a href={"/"} className='inline-flex gap-2'>
           <Image src={Logo} width={30} />
           <span className='text-white text-6xl'><Image src={FuturaEd} /></span>
-        </div>
+        </a>
 
         <ul className="hidden lg:flex space-x-12">
-          <a href='#' className='hover:scale-110 duration-100 text-white'><li>About</li></a>
-          <a href='#' className='hover:scale-110 duration-100 text-white'><li>Speakers</li></a>
-          <a href='#' className='hover:scale-110 duration-100 text-white'><li>Features</li></a>
+          <a href='#about' className='hover:scale-110 duration-100 text-white'><li>About</li></a>
+          <a href='/speakers' className='hover:scale-110 duration-100 text-white'><li>Speakers</li></a>
+          <a href='/features' className='hover:scale-110 duration-100 text-white'><li>Features</li></a>
         </ul>
 
 
