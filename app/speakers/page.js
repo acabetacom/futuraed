@@ -40,6 +40,14 @@ export default function page() {
             </div>
             <div>
                 <h1>Fill the form below</h1>
+
+
+                <form>
+                    <input type="text"/>
+
+
+                    <a href=""><button>Submit</button></a>
+                </form>
             </div>
         </section>
 
