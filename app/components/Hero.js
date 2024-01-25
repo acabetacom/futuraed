@@ -13,7 +13,7 @@ const Hero = () => {
                 <div className="max-w-[775px] text-center text-white text-5xl lg:text-[82.64px] font-bold font-['Epilogue'] capitalize leading-normal lg:leading-[87.83px]">the largest edtech gathering in nigeria!</div>
                     
 
-                    <div className='bg-[#E8C308] text-sm lg:text-lg mt-4 mb-6 w-full  py-1 lg:py-5 rounded-lg text-center'><span>THEME:</span>Navigating the educational future/ Pioneering Change, Empowering Minds</div>
+                    <div className='bg-[#E8C308] text-sm lg:text-lg mt-4 mb-6 w-full  py-1 lg:py-5 rounded-lg text-center'><span>THEME:</span> Navigating the educational future/ Pioneering Change, Empowering Minds</div>
                     <div className='flex pt-8 gap-6'>
                         <a href='' className='font-bold bg-[#2BA10E] hover:bg-[#2ba10ece] hover:scale-105 duration-700 py-3.5 px-3 border text-white border-white rounded-lg cursor-pointer'><button>Join The Waitlist</button></a>
 
