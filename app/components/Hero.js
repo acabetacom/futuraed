@@ -8,8 +8,8 @@ const Hero = () => {
         <div className='h-[85dvh]'>
             <Image src={Vector} width={700} className='absolute -z-10' />
 
-            <div className=' mx-auto flex flex-col justify-center items-center relative'>
-                <div className='flex flex-col justify-center items-center pt-40 px-2'>
+            <div className='py-40 mx-auto flex flex-col justify-center items-center relative'>
+                <div className='flex flex-col justify-center items-center  px-2'>
                 <div className="max-w-[775px] text-center text-white text-5xl lg:text-[82.64px] font-bold font-['Epilogue'] capitalize leading-normal lg:leading-[87.83px]">the largest edtech gathering in nigeria!</div>
                     
 
