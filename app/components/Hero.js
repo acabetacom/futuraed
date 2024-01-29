@@ -14,7 +14,7 @@ const Hero = () => {
                     
 
                     <div className='bg-[#E8C308] text-sm lg:text-lg mt-4 mb-6 w-full  py-1 lg:py-5 rounded-lg text-center'><span>THEME:</span> Navigating the educational future/ Pioneering Change, Empowering Minds</div>
-                    <div className='flex pt-8 gap-6'>
+                    <div className='flex py-8 gap-6'>
                         <a href='' className='font-bold bg-[#2BA10E] hover:bg-[#2ba10ece] hover:scale-105 duration-700 py-3.5 px-3 border text-white border-white rounded-lg cursor-pointer'><button>Join The Waitlist</button></a>
 
                         <a href='' className='bg-white font-bold hover:bg-[#f0f0f0] hover:scale-105 duration-700 py-3.5 px-3 border text-black border-white rounded-lg cursor-pointer'><button>Get Your Tickets</button></a>
