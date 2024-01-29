@@ -7,11 +7,11 @@ export default function Home() {
   return (
     <main>
       <div className="h-dvh">
-      <Header />
-      <Hero />
+        <Header />
+        <Hero />
       </div>
-      <About/>
-      <Topics/>
+      <About />
+      <Topics />
     </main>
   );
 }

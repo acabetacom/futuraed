@@ -56,8 +56,8 @@ const Header = () => {
         <div className="lg:hidden bg-[#101010] h-screen px-4 pb-6">
           <ul className="flex flex-col mt-4 py-12 space-y-2 ">
             <li><a href="#about" className="block py-2 px-4 hover:bg-black">About</a></li>
-            <li><a href="#" className="block py-2 px-4 hover:bg-black">Speakers</a></li>
-            <li><a href="#" className="block py-2 px-4 hover:bg-black">Features</a></li>
+            <li><a href="/speakers" className="block py-2 px-4 hover:bg-black">Speakers</a></li>
+            <li><a href="/features" className="block py-2 px-4 hover:bg-black">Features</a></li>
           </ul>
           <div className="mt-4 text-center">
             <div className="flex flex-col md:hidden gap-3">
