@@ -22,11 +22,16 @@ An annaul edtech event(powered by Acabeta) comprising of several edtech companie
 
 - [@danielbryte](https://www.github.com/danielbryte)
 
+Your name will be added when you make a merged contribution.
+
 
 
 ## Contributing
 
-- You work components by components.
+#### Check figma file:
+https://www.figma.com/file/Wa2bPw4ww6rtBszya1AkU0/FuturaEd?node-id=0%3A1&mode=dev
+
+#### You work components by components.
 
 - Fork the repository 
 
